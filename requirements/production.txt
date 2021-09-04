@@ -1,0 +1,4 @@
+# this file is empty
+Flask
+flask-sqlalchemy
+psycopg2
